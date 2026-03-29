@@ -49,13 +49,13 @@ It captures system performance and process details and stores them in log files.
 ---
 
 ## 📂 Project Structure
-
+'''
 System-Monitoring-Tool/
 │── basic_version/
 │── advanced_version/
 │── sample_logs/
 │── README.md
-
+'''
 ---
 
 ## ▶️ How to Run
