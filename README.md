@@ -49,13 +49,23 @@ It captures system performance and process details and stores them in log files.
 ---
 
 ## 📂 Project Structure
-'''
+
+```
 System-Monitoring-Tool/
 │── basic_version/
+│     └── process_monitor_basic.py
+│
 │── advanced_version/
+│     └── process_monitor_advanced.py
+│
 │── sample_logs/
+│     ├── sample_log_1.log
+│     ├── sample_log_2.log
+│     ├── sample_log_3.log
+│
 │── README.md
-'''
+```
+
 ---
 
 ## ▶️ How to Run
